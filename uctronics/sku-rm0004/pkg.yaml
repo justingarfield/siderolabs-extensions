@@ -1,0 +1,14 @@
+name: uctronics-sku-rm0004
+variant: scratch
+shell: /toolchain/bin/bash
+dependencies:
+ - stage: base
+steps:
+  - prepare:
+  - install:
+    test:
+finalize:
+  - from: /rootfs
+    to: /rootfs
+  - from: /pkg/manifest.yaml
+    to: /

@@ -84,6 +84,7 @@ TARGETS += spin
 TARGETS += stargz-snapshotter
 TARGETS += tailscale
 TARGETS += thunderbolt
+TARGETS += uctronics-sku-rm0004
 TARGETS += usb-modem-drivers
 TARGETS += util-linux-tools
 TARGETS += v4l-uvc-drivers
