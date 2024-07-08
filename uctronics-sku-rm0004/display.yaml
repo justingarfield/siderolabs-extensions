@@ -1,0 +1,8 @@
+---
+name: display
+container:
+  entrypoint: ./display
+depends:
+  - network:
+      - addresses
+restart: always

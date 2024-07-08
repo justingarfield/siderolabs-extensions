@@ -33,6 +33,7 @@ spec:
     - stargz-snapshotter
     - tailscale
     - thunderbolt
+    - uctronics-sku-rm0004
     - usb-modem-drivers
     - util-linux-tools
     - v4l-uvc-drivers
