@@ -1,12 +1,10 @@
 version: v1alpha1
 metadata:
   name: uctronics-sku-rm0004
-  version: "v0.1.0-alpha"
+  version: "1.0.0"
   author: Justin Garfield
   description: |
     This system extension provides the uctronics display binary for sku_rm0004 LCD displays built against a specific Talos version.
-  ## The compatibility section is "optional" but highly recommended to specify a Talos version that
-  ## has been tested and known working for this extension.
   compatibility:
     talos:
       version: ">= v1.7.0"

@@ -1,2 +1,1 @@
-# the first part is the driver version and the second the talos version for which the module is built against
-VERSION: "v0.1.0-alpha"
+VERSION: "{{ .SKU_RM0004_VERSION }}"
